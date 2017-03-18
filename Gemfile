@@ -37,6 +37,9 @@ gem 'font-awesome-sass', '4.6.2'
 # Use Hirb for better db display in console.
 gem 'hirb', '0.7.3'
 
+# Use Mailgun for email delivery
+gem 'mailgunner', '2.4'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
