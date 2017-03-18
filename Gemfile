@@ -38,7 +38,7 @@ gem 'font-awesome-sass', '4.6.2'
 gem 'hirb', '0.7.3'
 
 # Use Mailgun for email delivery
-gem 'mailgunner', '2.4'
+gem 'mailgun-ruby', '1.1.5'
 
 # Use Devise for user authentication
 gem 'devise', '4.2.0'
